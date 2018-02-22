@@ -1,0 +1,4 @@
+#Sun Feb 18 21:49:14 EET 2018
+base.0=C\:\\Users\\Lance\\Desktop\\code\\myMap\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\144
+path.0=classes.dex
+renamed.0=classes.dex
